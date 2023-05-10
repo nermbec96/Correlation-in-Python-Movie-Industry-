@@ -18,7 +18,7 @@ My expectations was that the **gross earnings** and **budget** are the categorie
 - Converting non numberized columns in numerized columns 
 - Finding high correalted pairs
 
-## Projec tHighlights
+## Project Highlights
 ### Import libraries and dataset
 ```bash
 import pandas as pd
